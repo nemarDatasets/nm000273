@@ -1,0 +1,1 @@
+{"processing_params": "Pipeline(steps=[(<StepType.RAW: 'raw'>,\n                 SetRawAnnotations(event_id={'12.0': 1, '5.45': 4, '6.67': 3,\n                                             '8.57': 2},\n                                   interval=[0.0, 4.0]))])"}
