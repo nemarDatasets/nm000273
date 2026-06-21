@@ -2,8 +2,14 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "authors": {
-    "[Unspecified1]": {},
-    "[Unspecified2]": {}
+    "Min-Ho Lee": {},
+    "O-Yeon Kwon": {},
+    "Yong-Jeong Kim": {},
+    "Hong-Kyung Kim": {},
+    "Young-Eun Lee": {},
+    "John Williamson": {},
+    "Siamac Fazli": {},
+    "Seong-Whan Lee": {}
   },
   "related_identifiers": [
     {
