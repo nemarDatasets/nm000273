@@ -1,23 +1,29 @@
 {
-  "Name": "OpenBMI SSVEP EEG dataset (Lee et al. 2019)",
-  "BIDSVersion": "1.7.0",
-  "DatasetType": "derivative",
-  "Authors": [
-    "[Unspecified1]",
-    "[Unspecified2]"
-  ],
-  "GeneratedBy": [
-    {
-      "CodeURL": "https://github.com/NeuroTechX/moabb",
-      "Name": "moabb",
-      "Description": "Mother of All BCI Benchmarks",
-      "Version": "1.2.0"
-    }
-  ],
-  "SourceDatasets": [
-    {
-      "DOI": "10.5524/100542"
-    }
-  ],
-  "Version": "1.0.1"
+    "Name": "OpenBMI SSVEP EEG dataset (Lee et al. 2019)",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "derivative",
+    "Authors": [
+        "Min-Ho Lee",
+        "O-Yeon Kwon",
+        "Yong-Jeong Kim",
+        "Hong-Kyung Kim",
+        "Young-Eun Lee",
+        "John Williamson",
+        "Siamac Fazli",
+        "Seong-Whan Lee"
+    ],
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/NeuroTechX/moabb",
+            "Name": "moabb",
+            "Description": "Mother of All BCI Benchmarks",
+            "Version": "1.2.0"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "DOI": "10.5524/100542"
+        }
+    ],
+    "Version": "1.0.2"
 }
