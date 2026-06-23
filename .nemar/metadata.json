@@ -2,7 +2,7 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "OpenBMI SSVEP EEG dataset (Lee et al. 2019)",
-  "description": "This derivative dataset contains preprocessed steady-state visually evoked potential (SSVEP) EEG recordings from the OpenBMI study. The dataset comprises EEG data collected during SSVEP-based brain-computer interface experiments, organized according to the Brain Imaging Data Structure (BIDS) standard. This resource facilitates benchmarking and development of BCI algorithms through standardized, openly accessible neurophysiological data.",
+  "description": "A BIDS-formatted derivative dataset of steady-state visually evoked potential (SSVEP) EEG recordings from 54 subjects across 2 sessions. This dataset comprises 21,600 trials of 4-second EEG recordings at 1000 Hz sampling frequency from 62 channels, organized for standardized brain-computer interface benchmarking. The data has been processed and converted to BIDS format using the Mother of All BCI Benchmarks (MOABB) framework, enabling reproducible analysis of SSVEP-based BCI paradigms with 4 stimulus classes.",
   "dataset_type": "derivative",
   "authors": {
     "[Unspecified1]": {},
@@ -37,15 +37,19 @@
       "term": "EEG"
     },
     {
+      "term": "steady-state visually evoked potential"
+    },
+    {
       "term": "SSVEP"
     },
     {
-      "term": "Brain-Computer Interfaces",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+      "term": "brain-computer interface"
     },
     {
       "term": "BCI"
+    },
+    {
+      "term": "visual stimulation"
     },
     {
       "term": "benchmark"
@@ -54,10 +58,10 @@
       "term": "BIDS"
     },
     {
-      "term": "steady-state visually evoked potential"
+      "term": "derivative dataset"
     },
     {
-      "term": "OpenBMI"
+      "term": "MOABB"
     }
   ],
   "related_identifiers": [
@@ -85,6 +89,11 @@
       "identifier": "10.1038/s41597-019-0104-8",
       "identifier_type": "DOI",
       "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.1093/gigascience/giz002",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
     }
   ],
   "resource_type_general": "Dataset",
@@ -102,5 +111,6 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "9bcec29db23bf7a25c7b1ecf9a3d5fa747805d633f20a8163ed4bc3236b9722a"
+  "methods_description": "EEG data collected using SSVEP stimulation paradigm with 62-channel recording at 1000 Hz sampling frequency. Trial duration: 4 seconds. Data from 54 subjects across 2 sessions with 4 stimulus classes. See primary publication (DOI: 10.1093/gigascience/giz002) for detailed experimental protocol and data collection methods.",
+  "source_hash": "8a71d126948c06a7969e4a32a411b33de3e804bc072618494267a1f18a1ac6f1"
 }
