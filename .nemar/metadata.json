@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "OpenBMI SSVEP EEG dataset (Lee et al. 2019)",
-  "description": "A BIDS-formatted derivative dataset of steady-state visually evoked potential (SSVEP) EEG recordings from 54 subjects across 2 sessions, containing 21,600 trials acquired at 1000 Hz sampling rate with 62 channels. This dataset, derived from the Lee et al. 2019 source dataset, has been standardized using the Mother of All BCI Benchmarks (MOABB) framework to enable reproducible benchmarking of brain-computer interface paradigms based on SSVEP stimulation.",
-  "methods_description": "EEG recordings from 54 subjects with 62-channel acquisition at 1000 Hz sampling frequency. Data collected across 2 sessions with SSVEP stimulation paradigm, yielding 4-second trial epochs across 4 classes. Original data collection methods detailed in the primary publication (Lee et al. 2019).",
+  "description": "A BIDS-formatted derivative dataset of steady-state visually evoked potential (SSVEP) EEG recordings from 54 subjects across 2 sessions. The dataset contains 21,600 trials of 4-second EEG recordings at 1000 Hz sampling frequency from 62 channels, organized for standardized brain-computer interface benchmarking using the Mother of All BCI Benchmarks (MOABB) framework. This derivative was converted from the original Lee2019 source dataset using MNE-BIDS tools to enable reproducible analysis of SSVEP-based BCI paradigms.",
+  "methods_description": "EEG data collected using SSVEP stimulation paradigm with 4-second trial duration at 1000 Hz sampling frequency across 62 channels. Data organized in BIDS format using MOABB pipeline and MNE-BIDS tools.",
   "dataset_type": "derivative",
   "authors": {
     "[Unspecified1]": {},
@@ -101,5 +101,6 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "2a0f3580a00f1c8707641ac26d2f5ce959d4c227d4602c3c423dc2410d408e16"
+  "license": "CC-BY-4.0",
+  "source_hash": "13e754d453bb1a9e7aa6a0880a08a5f79ca369eb8099bf35dd881396f360bab9"
 }
