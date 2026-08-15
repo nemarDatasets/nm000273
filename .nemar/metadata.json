@@ -2,8 +2,9 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "OpenBMI SSVEP EEG dataset (Lee et al. 2019)",
-  "description": "A BIDS-formatted derivative dataset of steady-state visually evoked potential (SSVEP) EEG recordings from 54 subjects across 2 sessions. The dataset contains 21,600 trials of 4-second EEG recordings at 1000 Hz sampling frequency from 62 channels, organized for standardized brain-computer interface benchmarking using the Mother of All BCI Benchmarks (MOABB) framework. This derivative was converted from the original Lee2019 source dataset using MNE-BIDS tools to enable reproducible analysis of SSVEP-based BCI paradigms.",
-  "methods_description": "EEG data collected using SSVEP stimulation paradigm with 4-second trial duration at 1000 Hz sampling frequency across 62 channels. Data organized in BIDS format using MOABB pipeline and MNE-BIDS tools.",
+  "description": "A BIDS-formatted derivative dataset of steady-state visually evoked potential (SSVEP) EEG recordings from 54 subjects across 2 sessions. This dataset comprises 21,600 trials of 4-second EEG recordings sampled at 1000 Hz from 62 channels, designed for brain-computer interface benchmarking using a 4-class SSVEP paradigm. The data has been standardized and organized using the Mother of All BCI Benchmarks (MOABB) framework to facilitate reproducible analysis and comparison of BCI algorithms.",
+  "methods_description": "EEG data were collected using a 62-channel montage at 1000 Hz sampling frequency across 2 sessions with 4-second trial durations in a 4-class SSVEP paradigm. Detailed acquisition and experimental protocols are described in the primary publication (DOI: 10.1093/gigascience/giz002).",
+  "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
     "[Unspecified1]": {},
@@ -44,13 +45,15 @@
       "term": "SSVEP"
     },
     {
-      "term": "brain-computer interface"
-    },
-    {
-      "term": "BCI"
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
     },
     {
       "term": "BIDS"
+    },
+    {
+      "term": "benchmark dataset"
     }
   ],
   "related_identifiers": [
@@ -101,6 +104,5 @@
     ".tsv",
     ".yml"
   ],
-  "license": "CC-BY-4.0",
-  "source_hash": "13e754d453bb1a9e7aa6a0880a08a5f79ca369eb8099bf35dd881396f360bab9"
+  "source_hash": "2658e78204b15fa64693d547e564aa16861f36871bd5924ca434e1d333ea10f9"
 }
