@@ -14,542 +14,651 @@
   {
    "file": "session1/s1/sess01_subj01_EEG_SSVEP.mat",
    "bytes": 641775289,
-   "sha256": "cba21402e2a1811d3cad52565187a30cb3a5dfe9abc8bbd98a358701cd7eb882"
+   "sha256": "cba21402e2a1811d3cad52565187a30cb3a5dfe9abc8bbd98a358701cd7eb882",
+   "subject": "1"
   },
   {
    "file": "session1/s10/sess01_subj10_EEG_SSVEP.mat",
    "bytes": 654420058,
-   "sha256": "3cb29424d3855591bf42055f862036852a64c3dd7cdb37ffa7bf4913d03f81f3"
+   "sha256": "3cb29424d3855591bf42055f862036852a64c3dd7cdb37ffa7bf4913d03f81f3",
+   "subject": "10"
   },
   {
    "file": "session1/s11/sess01_subj11_EEG_SSVEP.mat",
    "bytes": 555215509,
-   "sha256": "65ab73c4a75454bfac43275f8108518c5b87714b3b73d0adb2927d62c439d3ce"
+   "sha256": "65ab73c4a75454bfac43275f8108518c5b87714b3b73d0adb2927d62c439d3ce",
+   "subject": "11"
   },
   {
    "file": "session1/s12/sess01_subj12_EEG_SSVEP.mat",
    "bytes": 540302237,
-   "sha256": "362e99b658d11d2ced0a11c1882479e4cae0d28e8917f845f9fdef6c48d2a4d5"
+   "sha256": "362e99b658d11d2ced0a11c1882479e4cae0d28e8917f845f9fdef6c48d2a4d5",
+   "subject": "12"
   },
   {
    "file": "session1/s13/sess01_subj13_EEG_SSVEP.mat",
    "bytes": 572881711,
-   "sha256": "7cc3c9632088780e2b3d0a9e41290c51c817b21f8f7d400ea85ac7ce54ec0525"
+   "sha256": "7cc3c9632088780e2b3d0a9e41290c51c817b21f8f7d400ea85ac7ce54ec0525",
+   "subject": "13"
   },
   {
    "file": "session1/s14/sess01_subj14_EEG_SSVEP.mat",
    "bytes": 552474132,
-   "sha256": "874a7e720b2f88e2f6f4b1cb9a9f96b0f9d8f55fd9a0657534d900d6d691c8d1"
+   "sha256": "874a7e720b2f88e2f6f4b1cb9a9f96b0f9d8f55fd9a0657534d900d6d691c8d1",
+   "subject": "14"
   },
   {
    "file": "session1/s15/sess01_subj15_EEG_SSVEP.mat",
    "bytes": 552377791,
-   "sha256": "9329c0de77dc0a101f318842ac80282e84092a2058ea92df683fa833889661f3"
+   "sha256": "9329c0de77dc0a101f318842ac80282e84092a2058ea92df683fa833889661f3",
+   "subject": "15"
   },
   {
    "file": "session1/s16/sess01_subj16_EEG_SSVEP.mat",
    "bytes": 543770652,
-   "sha256": "6eabdb414b5fb8cfdde51c616bfb163188254d61109b258a3d335f0bea81c685"
+   "sha256": "6eabdb414b5fb8cfdde51c616bfb163188254d61109b258a3d335f0bea81c685",
+   "subject": "16"
   },
   {
    "file": "session1/s17/sess01_subj17_EEG_SSVEP.mat",
    "bytes": 602867421,
-   "sha256": "6c3acbae5eedbad38e37ee47f472dfde63a1e76dad2e28d0f10b3e364d7a69ba"
+   "sha256": "6c3acbae5eedbad38e37ee47f472dfde63a1e76dad2e28d0f10b3e364d7a69ba",
+   "subject": "17"
   },
   {
    "file": "session1/s18/sess01_subj18_EEG_SSVEP.mat",
    "bytes": 533635884,
-   "sha256": "dac7aea5f53cf7758ecf6a27d435c2c7eaebbc02b2a58c77fa43368a0fe0f6a2"
+   "sha256": "dac7aea5f53cf7758ecf6a27d435c2c7eaebbc02b2a58c77fa43368a0fe0f6a2",
+   "subject": "18"
   },
   {
    "file": "session1/s19/sess01_subj19_EEG_SSVEP.mat",
    "bytes": 525431434,
-   "sha256": "ac13eac3600409ac1e8b45dc73c5cff035d5ebc0c155e8917e093892a811105c"
+   "sha256": "ac13eac3600409ac1e8b45dc73c5cff035d5ebc0c155e8917e093892a811105c",
+   "subject": "19"
   },
   {
    "file": "session1/s2/sess01_subj02_EEG_SSVEP.mat",
    "bytes": 543488190,
-   "sha256": "cef9e93726907557c7e267d47dbefab5dd41af997e590e958ebfd4f6a6eb7696"
+   "sha256": "cef9e93726907557c7e267d47dbefab5dd41af997e590e958ebfd4f6a6eb7696",
+   "subject": "2"
   },
   {
    "file": "session1/s20/sess01_subj20_EEG_SSVEP.mat",
    "bytes": 538683267,
-   "sha256": "83e0b789eafcab7267bd09bcb8134a9b85b7758adf005af42604488e66232fd4"
+   "sha256": "83e0b789eafcab7267bd09bcb8134a9b85b7758adf005af42604488e66232fd4",
+   "subject": "20"
   },
   {
    "file": "session1/s21/sess01_subj21_EEG_SSVEP.mat",
    "bytes": 558323198,
-   "sha256": "584f2350d302f84e6ebbbe38815505968bfc6f82dcf85f9844fe74718fc0b93c"
+   "sha256": "584f2350d302f84e6ebbbe38815505968bfc6f82dcf85f9844fe74718fc0b93c",
+   "subject": "21"
   },
   {
    "file": "session1/s22/sess01_subj22_EEG_SSVEP.mat",
    "bytes": 537234276,
-   "sha256": "5163af7c39b75230dda285d315bab00c85706ff364058371bf28f399108b38e4"
+   "sha256": "5163af7c39b75230dda285d315bab00c85706ff364058371bf28f399108b38e4",
+   "subject": "22"
   },
   {
    "file": "session1/s23/sess01_subj23_EEG_SSVEP.mat",
    "bytes": 581522549,
-   "sha256": "6c18ac87b0cc904a02571090e0d84bd5f4f0e3a52016b8d8139c3c1da56f4daa"
+   "sha256": "6c18ac87b0cc904a02571090e0d84bd5f4f0e3a52016b8d8139c3c1da56f4daa",
+   "subject": "23"
   },
   {
    "file": "session1/s24/sess01_subj24_EEG_SSVEP.mat",
    "bytes": 531905832,
-   "sha256": "c1c2c870f38c817c346f4a8091db29add256e506c26f924b58cb48c98b26df6f"
+   "sha256": "c1c2c870f38c817c346f4a8091db29add256e506c26f924b58cb48c98b26df6f",
+   "subject": "24"
   },
   {
    "file": "session1/s25/sess01_subj25_EEG_SSVEP.mat",
    "bytes": 521698301,
-   "sha256": "969be7699d0e8b52e67a0d4f652539ffae478b4c0db5b44128422da1f225ad76"
+   "sha256": "969be7699d0e8b52e67a0d4f652539ffae478b4c0db5b44128422da1f225ad76",
+   "subject": "25"
   },
   {
    "file": "session1/s26/sess01_subj26_EEG_SSVEP.mat",
    "bytes": 550361152,
-   "sha256": "179f82c435722b177c93b7dc9f549baa80d8d265c5ab0856d86a44d8b4cc5b6b"
+   "sha256": "179f82c435722b177c93b7dc9f549baa80d8d265c5ab0856d86a44d8b4cc5b6b",
+   "subject": "26"
   },
   {
    "file": "session1/s27/sess01_subj27_EEG_SSVEP.mat",
    "bytes": 533771876,
-   "sha256": "952f6b39a1270abd12f4d79861a29ad29cc3e4779663e2678d2d41ae91bc94ab"
+   "sha256": "952f6b39a1270abd12f4d79861a29ad29cc3e4779663e2678d2d41ae91bc94ab",
+   "subject": "27"
   },
   {
    "file": "session1/s28/sess01_subj28_EEG_SSVEP.mat",
    "bytes": 527990396,
-   "sha256": "2e19fe1b7b6fd53f6c29bf25264b621ca0610da2c526cb7da31a8b4846e14325"
+   "sha256": "2e19fe1b7b6fd53f6c29bf25264b621ca0610da2c526cb7da31a8b4846e14325",
+   "subject": "28"
   },
   {
    "file": "session1/s29/sess01_subj29_EEG_SSVEP.mat",
    "bytes": 531096209,
-   "sha256": "fe5498450adbf5d6afa96fad8664b51f8c00aafd92ee6ba896014c7184791200"
+   "sha256": "fe5498450adbf5d6afa96fad8664b51f8c00aafd92ee6ba896014c7184791200",
+   "subject": "29"
   },
   {
    "file": "session1/s3/sess01_subj03_EEG_SSVEP.mat",
    "bytes": 553617637,
-   "sha256": "ec1ac1134072281a8400c54c7fc6381796b164dc0dbcf2b768c08f0fb864f6a6"
+   "sha256": "ec1ac1134072281a8400c54c7fc6381796b164dc0dbcf2b768c08f0fb864f6a6",
+   "subject": "3"
   },
   {
    "file": "session1/s30/sess01_subj30_EEG_SSVEP.mat",
    "bytes": 608647538,
-   "sha256": "40e3ad631b1b23e740e30723ec772fc79bd92867d81b075784ae40124ff72208"
+   "sha256": "40e3ad631b1b23e740e30723ec772fc79bd92867d81b075784ae40124ff72208",
+   "subject": "30"
   },
   {
    "file": "session1/s31/sess01_subj31_EEG_SSVEP.mat",
    "bytes": 546154146,
-   "sha256": "0b33cfb20e893119d8819d012641f0a42794f3a07ad1d2d3c0cc00423a431420"
+   "sha256": "0b33cfb20e893119d8819d012641f0a42794f3a07ad1d2d3c0cc00423a431420",
+   "subject": "31"
   },
   {
    "file": "session1/s32/sess01_subj32_EEG_SSVEP.mat",
    "bytes": 564356992,
-   "sha256": "57d09510b1fd1c952c77225be91ab1d5baea49f7f77eb46fcc7eb65de5372aca"
+   "sha256": "57d09510b1fd1c952c77225be91ab1d5baea49f7f77eb46fcc7eb65de5372aca",
+   "subject": "32"
   },
   {
    "file": "session1/s33/sess01_subj33_EEG_SSVEP.mat",
    "bytes": 586665037,
-   "sha256": "c493ceff917ee9f56dd8250d3dc2402e455dcd9f6c98165b61e3d9bde0b49a84"
+   "sha256": "c493ceff917ee9f56dd8250d3dc2402e455dcd9f6c98165b61e3d9bde0b49a84",
+   "subject": "33"
   },
   {
    "file": "session1/s34/sess01_subj34_EEG_SSVEP.mat",
    "bytes": 597709886,
-   "sha256": "e86a079312917c4b5c522576eebd26d140e6844d982c471ce57baa4d2c7331f9"
+   "sha256": "e86a079312917c4b5c522576eebd26d140e6844d982c471ce57baa4d2c7331f9",
+   "subject": "34"
   },
   {
    "file": "session1/s35/sess01_subj35_EEG_SSVEP.mat",
    "bytes": 552137371,
-   "sha256": "b88daaf158db540b891064a34651f6d9edf36a72e8e0cd710c4767621c7dd93d"
+   "sha256": "b88daaf158db540b891064a34651f6d9edf36a72e8e0cd710c4767621c7dd93d",
+   "subject": "35"
   },
   {
    "file": "session1/s36/sess01_subj36_EEG_SSVEP.mat",
    "bytes": 580727513,
-   "sha256": "92f4e68effb921dd8d363a04e216f5da4f8afd1d3b0f045ceeaa1f19e6cbe8a1"
+   "sha256": "92f4e68effb921dd8d363a04e216f5da4f8afd1d3b0f045ceeaa1f19e6cbe8a1",
+   "subject": "36"
   },
   {
    "file": "session1/s37/sess01_subj37_EEG_SSVEP.mat",
    "bytes": 539327396,
-   "sha256": "60c2315031037995f422b132cd373b589fd9dfe810d5b4520bf210511052459a"
+   "sha256": "60c2315031037995f422b132cd373b589fd9dfe810d5b4520bf210511052459a",
+   "subject": "37"
   },
   {
    "file": "session1/s38/sess01_subj38_EEG_SSVEP.mat",
    "bytes": 578924352,
-   "sha256": "a1ac313bc7f3997c0d94ded01a491957729a0bf1f158e3652873572d8566c7c7"
+   "sha256": "a1ac313bc7f3997c0d94ded01a491957729a0bf1f158e3652873572d8566c7c7",
+   "subject": "38"
   },
   {
    "file": "session1/s39/sess01_subj39_EEG_SSVEP.mat",
    "bytes": 552282845,
-   "sha256": "a91630b458dc454cd62f20272d004f39d399d36d64a4ae2ace0a3bb011ba180a"
+   "sha256": "a91630b458dc454cd62f20272d004f39d399d36d64a4ae2ace0a3bb011ba180a",
+   "subject": "39"
   },
   {
    "file": "session1/s4/sess01_subj04_EEG_SSVEP.mat",
    "bytes": 522745428,
-   "sha256": "05178f1c0a906e25aa700e67d288a23555e339a59ffb43fa23c34e1147b560c4"
+   "sha256": "05178f1c0a906e25aa700e67d288a23555e339a59ffb43fa23c34e1147b560c4",
+   "subject": "4"
   },
   {
    "file": "session1/s40/sess01_subj40_EEG_SSVEP.mat",
    "bytes": 586310287,
-   "sha256": "c4eb772a3105a97949d371913101e5dcb02c5890a20a20bd92f56ff266307e6f"
+   "sha256": "c4eb772a3105a97949d371913101e5dcb02c5890a20a20bd92f56ff266307e6f",
+   "subject": "40"
   },
   {
    "file": "session1/s41/sess01_subj41_EEG_SSVEP.mat",
    "bytes": 521291507,
-   "sha256": "0a21491611a97304d9340bffb76a14e80bb10ccdfc457e069253d9f6848263eb"
+   "sha256": "0a21491611a97304d9340bffb76a14e80bb10ccdfc457e069253d9f6848263eb",
+   "subject": "41"
   },
   {
    "file": "session1/s42/sess01_subj42_EEG_SSVEP.mat",
    "bytes": 545467573,
-   "sha256": "9c6d47a2f3a5cf6608b3f288d9898c606f7201ee8116004d968d8322f8bc16e3"
+   "sha256": "9c6d47a2f3a5cf6608b3f288d9898c606f7201ee8116004d968d8322f8bc16e3",
+   "subject": "42"
   },
   {
    "file": "session1/s43/sess01_subj43_EEG_SSVEP.mat",
    "bytes": 577656511,
-   "sha256": "60fbbf063cb9a1ac3813abb773796c0fe832a91e7b140c33a44e06497c7a3422"
+   "sha256": "60fbbf063cb9a1ac3813abb773796c0fe832a91e7b140c33a44e06497c7a3422",
+   "subject": "43"
   },
   {
    "file": "session1/s44/sess01_subj44_EEG_SSVEP.mat",
    "bytes": 538238786,
-   "sha256": "e1f59ced9afd283442d43b597b2426681882aa148923c93eea000195620a698b"
+   "sha256": "e1f59ced9afd283442d43b597b2426681882aa148923c93eea000195620a698b",
+   "subject": "44"
   },
   {
    "file": "session1/s45/sess01_subj45_EEG_SSVEP.mat",
    "bytes": 584459576,
-   "sha256": "672fe0d1fec6e81247f62ba4f5cf9a0d00c2fbafb22fdd39d41fddcc9aefa16d"
+   "sha256": "672fe0d1fec6e81247f62ba4f5cf9a0d00c2fbafb22fdd39d41fddcc9aefa16d",
+   "subject": "45"
   },
   {
    "file": "session1/s46/sess01_subj46_EEG_SSVEP.mat",
    "bytes": 568651950,
-   "sha256": "929dedeff5367b1c6e7fe7b553606d8bc37b6ca36edc573b391b0ebd5729a6d3"
+   "sha256": "929dedeff5367b1c6e7fe7b553606d8bc37b6ca36edc573b391b0ebd5729a6d3",
+   "subject": "46"
   },
   {
    "file": "session1/s47/sess01_subj47_EEG_SSVEP.mat",
    "bytes": 564334487,
-   "sha256": "f19322d9b4619665ec62cb452e93741c73edbb05318ac7f0c52ebcf4adf52134"
+   "sha256": "f19322d9b4619665ec62cb452e93741c73edbb05318ac7f0c52ebcf4adf52134",
+   "subject": "47"
   },
   {
    "file": "session1/s48/sess01_subj48_EEG_SSVEP.mat",
    "bytes": 521077833,
-   "sha256": "40869e05e531a892cd93b258e75cb357b2768a9dc470dfebd94c22f271969157"
+   "sha256": "40869e05e531a892cd93b258e75cb357b2768a9dc470dfebd94c22f271969157",
+   "subject": "48"
   },
   {
    "file": "session1/s49/sess01_subj49_EEG_SSVEP.mat",
    "bytes": 531440997,
-   "sha256": "7b0921b46421f9e0ce1c3a36c20197fab85fc432ce03154c2a10fb4b87b8b7d8"
+   "sha256": "7b0921b46421f9e0ce1c3a36c20197fab85fc432ce03154c2a10fb4b87b8b7d8",
+   "subject": "49"
   },
   {
    "file": "session1/s5/sess01_subj05_EEG_SSVEP.mat",
    "bytes": 586565257,
-   "sha256": "31ec2299f5796a9b08d9a3b7275daf17d680f174bfcf08082900c6ed2999c55d"
+   "sha256": "31ec2299f5796a9b08d9a3b7275daf17d680f174bfcf08082900c6ed2999c55d",
+   "subject": "5"
   },
   {
    "file": "session1/s50/sess01_subj50_EEG_SSVEP.mat",
    "bytes": 496406597,
-   "sha256": "09fc3232b2d284bd4b0fe05411fd850aba305b3adefd2da4e19907043c6a41c9"
+   "sha256": "09fc3232b2d284bd4b0fe05411fd850aba305b3adefd2da4e19907043c6a41c9",
+   "subject": "50"
   },
   {
    "file": "session1/s51/sess01_subj51_EEG_SSVEP.mat",
    "bytes": 535714690,
-   "sha256": "e3b94986b8652b378ef766c0fc1093fdf613a6361352a35744f3e2f70ee23120"
+   "sha256": "e3b94986b8652b378ef766c0fc1093fdf613a6361352a35744f3e2f70ee23120",
+   "subject": "51"
   },
   {
    "file": "session1/s52/sess01_subj52_EEG_SSVEP.mat",
    "bytes": 537637607,
-   "sha256": "d0e535df2c85a6def57a30f1fd9e76f71c7374b7d046f1de1678759d5997d619"
+   "sha256": "d0e535df2c85a6def57a30f1fd9e76f71c7374b7d046f1de1678759d5997d619",
+   "subject": "52"
   },
   {
    "file": "session1/s53/sess01_subj53_EEG_SSVEP.mat",
    "bytes": 563627682,
-   "sha256": "27b5d30e75282d0ef56c0a1544be31d18cfa85faaf98c2f2dbf50e71289a2c25"
+   "sha256": "27b5d30e75282d0ef56c0a1544be31d18cfa85faaf98c2f2dbf50e71289a2c25",
+   "subject": "53"
   },
   {
    "file": "session1/s54/sess01_subj54_EEG_SSVEP.mat",
    "bytes": 549422807,
-   "sha256": "aba0b0ad65f896ba9e385b48ed79e185e4e91d32ae8c9c7d23851d70a50f9f81"
+   "sha256": "aba0b0ad65f896ba9e385b48ed79e185e4e91d32ae8c9c7d23851d70a50f9f81",
+   "subject": "54"
   },
   {
    "file": "session1/s6/sess01_subj06_EEG_SSVEP.mat",
    "bytes": 550677259,
-   "sha256": "0b112ac2dc70fba5fd2600eb98599c8dd1d8cceb8ed7ef5a7c669cacd02c33a7"
+   "sha256": "0b112ac2dc70fba5fd2600eb98599c8dd1d8cceb8ed7ef5a7c669cacd02c33a7",
+   "subject": "6"
   },
   {
    "file": "session1/s7/sess01_subj07_EEG_SSVEP.mat",
    "bytes": 531755159,
-   "sha256": "b185c8473e301f0cb31e81c5549dd63015ef27af048f064561c5239445b44731"
+   "sha256": "b185c8473e301f0cb31e81c5549dd63015ef27af048f064561c5239445b44731",
+   "subject": "7"
   },
   {
    "file": "session1/s8/sess01_subj08_EEG_SSVEP.mat",
    "bytes": 577289484,
-   "sha256": "80cc7310a0a6c72dbac90ca0bf5853f804f65f893f2c1186285f4bdb405a66ce"
+   "sha256": "80cc7310a0a6c72dbac90ca0bf5853f804f65f893f2c1186285f4bdb405a66ce",
+   "subject": "8"
   },
   {
    "file": "session1/s9/sess01_subj09_EEG_SSVEP.mat",
    "bytes": 591482638,
-   "sha256": "e8a26165c7f74a3112c6b1da6edeb1299c09db4012ea560f50d13e1bfa745060"
+   "sha256": "e8a26165c7f74a3112c6b1da6edeb1299c09db4012ea560f50d13e1bfa745060",
+   "subject": "9"
   },
   {
    "file": "session2/s1/sess02_subj01_EEG_SSVEP.mat",
    "bytes": 532937667,
-   "sha256": "f277bfd9a50ac580e8f752186216f078dfa96cea9e7f426d360a87261495c3be"
+   "sha256": "f277bfd9a50ac580e8f752186216f078dfa96cea9e7f426d360a87261495c3be",
+   "subject": "1"
   },
   {
    "file": "session2/s10/sess02_subj10_EEG_SSVEP.mat",
    "bytes": 561947413,
-   "sha256": "44dc8f92ee3b25c84007803afca3d985d0fe8e8559b403b5fd1c325dc8279e61"
+   "sha256": "44dc8f92ee3b25c84007803afca3d985d0fe8e8559b403b5fd1c325dc8279e61",
+   "subject": "10"
   },
   {
    "file": "session2/s11/sess02_subj11_EEG_SSVEP.mat",
    "bytes": 553893993,
-   "sha256": "8510cd509c016902247e08f5db5dc45524e295b05b331824d9da7ff03a5cfc24"
+   "sha256": "8510cd509c016902247e08f5db5dc45524e295b05b331824d9da7ff03a5cfc24",
+   "subject": "11"
   },
   {
    "file": "session2/s12/sess02_subj12_EEG_SSVEP.mat",
    "bytes": 555690080,
-   "sha256": "0de291c08bf4bb87ce18bc3131d52190c489ccee4f8c9a8b29bce05e9948d252"
+   "sha256": "0de291c08bf4bb87ce18bc3131d52190c489ccee4f8c9a8b29bce05e9948d252",
+   "subject": "12"
   },
   {
    "file": "session2/s13/sess02_subj13_EEG_SSVEP.mat",
    "bytes": 541462187,
-   "sha256": "2b1d0b3db47239276a6cff7a8f040331c0e4af909a5950f7331c8feff5118cce"
+   "sha256": "2b1d0b3db47239276a6cff7a8f040331c0e4af909a5950f7331c8feff5118cce",
+   "subject": "13"
   },
   {
    "file": "session2/s14/sess02_subj14_EEG_SSVEP.mat",
    "bytes": 564956220,
-   "sha256": "a692814e14c09bcac93c0150be064ebb4513f1d5f214116103fc6b9cb7ba4bf7"
+   "sha256": "a692814e14c09bcac93c0150be064ebb4513f1d5f214116103fc6b9cb7ba4bf7",
+   "subject": "14"
   },
   {
    "file": "session2/s15/sess02_subj15_EEG_SSVEP.mat",
    "bytes": 558023839,
-   "sha256": "bef37c79d078fdd5703c780717a2abf507475a3a87d3af47ee09176f732b2b45"
+   "sha256": "bef37c79d078fdd5703c780717a2abf507475a3a87d3af47ee09176f732b2b45",
+   "subject": "15"
   },
   {
    "file": "session2/s16/sess02_subj16_EEG_SSVEP.mat",
    "bytes": 526472562,
-   "sha256": "7bc7c3111a4722e68f814a7589102a5649c7957af4fde4fc6e398f2d81dc4b2a"
+   "sha256": "7bc7c3111a4722e68f814a7589102a5649c7957af4fde4fc6e398f2d81dc4b2a",
+   "subject": "16"
   },
   {
    "file": "session2/s17/sess02_subj17_EEG_SSVEP.mat",
    "bytes": 593771302,
-   "sha256": "602492bd4674811de2ae9359e9e57f51b60375baac21728ecb6a9e9b22a50ecd"
+   "sha256": "602492bd4674811de2ae9359e9e57f51b60375baac21728ecb6a9e9b22a50ecd",
+   "subject": "17"
   },
   {
    "file": "session2/s18/sess02_subj18_EEG_SSVEP.mat",
    "bytes": 509351496,
-   "sha256": "fef7d9000f3c10b9e2a9e57c3028eb7e2477b48a317f791069006c2518a4e515"
+   "sha256": "fef7d9000f3c10b9e2a9e57c3028eb7e2477b48a317f791069006c2518a4e515",
+   "subject": "18"
   },
   {
    "file": "session2/s19/sess02_subj19_EEG_SSVEP.mat",
    "bytes": 535344140,
-   "sha256": "7103ec275ac02360f346fa703b2de0deaa32f37151f047345f6f44f6c1ff4b2f"
+   "sha256": "7103ec275ac02360f346fa703b2de0deaa32f37151f047345f6f44f6c1ff4b2f",
+   "subject": "19"
   },
   {
    "file": "session2/s2/sess02_subj02_EEG_SSVEP.mat",
    "bytes": 545613255,
-   "sha256": "6a2508047b7dd26694e0ee24a022b663719ca3b724b44ca22ff2ead72112b78a"
+   "sha256": "6a2508047b7dd26694e0ee24a022b663719ca3b724b44ca22ff2ead72112b78a",
+   "subject": "2"
   },
   {
    "file": "session2/s20/sess02_subj20_EEG_SSVEP.mat",
    "bytes": 543796542,
-   "sha256": "be291642ba39cdbdca8d09f27b61d0eeb2a0b28545ff24678ce53ac406a098f7"
+   "sha256": "be291642ba39cdbdca8d09f27b61d0eeb2a0b28545ff24678ce53ac406a098f7",
+   "subject": "20"
   },
   {
    "file": "session2/s21/sess02_subj21_EEG_SSVEP.mat",
    "bytes": 593983758,
-   "sha256": "7fa504302b975cdc7fe5781f2f3e309b7da287026e0d9f349bcaa21ab8dcccaa"
+   "sha256": "7fa504302b975cdc7fe5781f2f3e309b7da287026e0d9f349bcaa21ab8dcccaa",
+   "subject": "21"
   },
   {
    "file": "session2/s22/sess02_subj22_EEG_SSVEP.mat",
    "bytes": 532890699,
-   "sha256": "9685f3c5b2bba301dd6de3c7bd4792bfd289518613d37d8f3882e2c337f28a15"
+   "sha256": "9685f3c5b2bba301dd6de3c7bd4792bfd289518613d37d8f3882e2c337f28a15",
+   "subject": "22"
   },
   {
    "file": "session2/s23/sess02_subj23_EEG_SSVEP.mat",
    "bytes": 527881835,
-   "sha256": "e36c0880e081f9d266d4df120be1befc7ade002bc16cfb72a52bb9b3f5fb461f"
+   "sha256": "e36c0880e081f9d266d4df120be1befc7ade002bc16cfb72a52bb9b3f5fb461f",
+   "subject": "23"
   },
   {
    "file": "session2/s24/sess02_subj24_EEG_SSVEP.mat",
    "bytes": 548634363,
-   "sha256": "ede5f53b8b273affb4fcf291ffc15be6c20649720371a10dd5c2f5722df1cf87"
+   "sha256": "ede5f53b8b273affb4fcf291ffc15be6c20649720371a10dd5c2f5722df1cf87",
+   "subject": "24"
   },
   {
    "file": "session2/s25/sess02_subj25_EEG_SSVEP.mat",
    "bytes": 518678906,
-   "sha256": "47c01b28f43614c4374ec5f1d27b83ccdb123f3672f4a506be303ab07f3add42"
+   "sha256": "47c01b28f43614c4374ec5f1d27b83ccdb123f3672f4a506be303ab07f3add42",
+   "subject": "25"
   },
   {
    "file": "session2/s26/sess02_subj26_EEG_SSVEP.mat",
    "bytes": 574031107,
-   "sha256": "7db932f9aa42caa4a8b43d4e5a42f676a3e9d4ffeaafe346cd8e13c6ecf13883"
+   "sha256": "7db932f9aa42caa4a8b43d4e5a42f676a3e9d4ffeaafe346cd8e13c6ecf13883",
+   "subject": "26"
   },
   {
    "file": "session2/s27/sess02_subj27_EEG_SSVEP.mat",
    "bytes": 520994148,
-   "sha256": "9efc208185fade2cec1d979f8261f634d66c770d2c91c8edf8599fc6dba39bed"
+   "sha256": "9efc208185fade2cec1d979f8261f634d66c770d2c91c8edf8599fc6dba39bed",
+   "subject": "27"
   },
   {
    "file": "session2/s28/sess02_subj28_EEG_SSVEP.mat",
    "bytes": 530465587,
-   "sha256": "5d7eada7891f5da8b15acd1f1fe8b361786aacde9f6a020956f022e9842821fd"
+   "sha256": "5d7eada7891f5da8b15acd1f1fe8b361786aacde9f6a020956f022e9842821fd",
+   "subject": "28"
   },
   {
    "file": "session2/s29/sess02_subj29_EEG_SSVEP.mat",
    "bytes": 518589169,
-   "sha256": "7f0dbc671057489c325c02387bf0acad24c0f9c5c3a0c2c70991f47d6cddaec8"
+   "sha256": "7f0dbc671057489c325c02387bf0acad24c0f9c5c3a0c2c70991f47d6cddaec8",
+   "subject": "29"
   },
   {
    "file": "session2/s3/sess02_subj03_EEG_SSVEP.mat",
    "bytes": 570074159,
-   "sha256": "3429ba65b0729e274a579025a9b14fb5c7b60940c35d4ea2b9965999d68c7128"
+   "sha256": "3429ba65b0729e274a579025a9b14fb5c7b60940c35d4ea2b9965999d68c7128",
+   "subject": "3"
   },
   {
    "file": "session2/s30/sess02_subj30_EEG_SSVEP.mat",
    "bytes": 564806892,
-   "sha256": "d4dd9bb1824dc5d4be1e64414fdda63411be4832da7d8ad46dec6015483c4207"
+   "sha256": "d4dd9bb1824dc5d4be1e64414fdda63411be4832da7d8ad46dec6015483c4207",
+   "subject": "30"
   },
   {
    "file": "session2/s31/sess02_subj31_EEG_SSVEP.mat",
    "bytes": 512971028,
-   "sha256": "71f7206e32ae1ff0a77f15aee47d04ce65a8498aba8be9f44599c1806d64e0db"
+   "sha256": "71f7206e32ae1ff0a77f15aee47d04ce65a8498aba8be9f44599c1806d64e0db",
+   "subject": "31"
   },
   {
    "file": "session2/s32/sess02_subj32_EEG_SSVEP.mat",
    "bytes": 606879582,
-   "sha256": "c811ee487b7826982642580c04aa1882a35a2a5eccca55445ea850697b213e49"
+   "sha256": "c811ee487b7826982642580c04aa1882a35a2a5eccca55445ea850697b213e49",
+   "subject": "32"
   },
   {
    "file": "session2/s33/sess02_subj33_EEG_SSVEP.mat",
    "bytes": 581597189,
-   "sha256": "dcede53818afcfe4c2165edb321f685e1ca893095d3a354366331013ee2f97f3"
+   "sha256": "dcede53818afcfe4c2165edb321f685e1ca893095d3a354366331013ee2f97f3",
+   "subject": "33"
   },
   {
    "file": "session2/s34/sess02_subj34_EEG_SSVEP.mat",
    "bytes": 548161880,
-   "sha256": "3b87506e762a5f878655720ad15b621edc2cc5bb3fe44c6125470dffc0d2e369"
+   "sha256": "3b87506e762a5f878655720ad15b621edc2cc5bb3fe44c6125470dffc0d2e369",
+   "subject": "34"
   },
   {
    "file": "session2/s35/sess02_subj35_EEG_SSVEP.mat",
    "bytes": 564474068,
-   "sha256": "325130fc92bc3c32ff4ce39fce883c0a9d420c21973cff13113a832ac9430524"
+   "sha256": "325130fc92bc3c32ff4ce39fce883c0a9d420c21973cff13113a832ac9430524",
+   "subject": "35"
   },
   {
    "file": "session2/s36/sess02_subj36_EEG_SSVEP.mat",
    "bytes": 545598787,
-   "sha256": "d9a876546191502e0f06af5aa48c01746a44790f3e9f61f0081976bb9ca1de2d"
+   "sha256": "d9a876546191502e0f06af5aa48c01746a44790f3e9f61f0081976bb9ca1de2d",
+   "subject": "36"
   },
   {
    "file": "session2/s37/sess02_subj37_EEG_SSVEP.mat",
    "bytes": 510806839,
-   "sha256": "4c2d5ddce09d02f7ab5b0ee48dc9a293571c8c1339e6c92774b2f84858078a1e"
+   "sha256": "4c2d5ddce09d02f7ab5b0ee48dc9a293571c8c1339e6c92774b2f84858078a1e",
+   "subject": "37"
   },
   {
    "file": "session2/s38/sess02_subj38_EEG_SSVEP.mat",
    "bytes": 570183036,
-   "sha256": "2fd5724815f7f8fed2a7c5d9753c6902029c33aa1e657b99786394c97749dc9b"
+   "sha256": "2fd5724815f7f8fed2a7c5d9753c6902029c33aa1e657b99786394c97749dc9b",
+   "subject": "38"
   },
   {
    "file": "session2/s39/sess02_subj39_EEG_SSVEP.mat",
    "bytes": 539416572,
-   "sha256": "ffc7c96dc6b6d2a01168af761e22e2926449a6625507a960e4caa8476c04cb75"
+   "sha256": "ffc7c96dc6b6d2a01168af761e22e2926449a6625507a960e4caa8476c04cb75",
+   "subject": "39"
   },
   {
    "file": "session2/s4/sess02_subj04_EEG_SSVEP.mat",
    "bytes": 525908094,
-   "sha256": "6795e6c83391561ce796acbb7a9efae8c0bbbf65416167736ff90076a7c2ebf4"
+   "sha256": "6795e6c83391561ce796acbb7a9efae8c0bbbf65416167736ff90076a7c2ebf4",
+   "subject": "4"
   },
   {
    "file": "session2/s40/sess02_subj40_EEG_SSVEP.mat",
    "bytes": 546218347,
-   "sha256": "3bfd24740e20ad0344f4ccf353997912559a0e992476cbbaa230e3eafd1dcc98"
+   "sha256": "3bfd24740e20ad0344f4ccf353997912559a0e992476cbbaa230e3eafd1dcc98",
+   "subject": "40"
   },
   {
    "file": "session2/s41/sess02_subj41_EEG_SSVEP.mat",
    "bytes": 552792271,
-   "sha256": "cf246fd1953eb88eef8e49e84de5dbe566b8babacc5b153f257a5a99c9e7bb38"
+   "sha256": "cf246fd1953eb88eef8e49e84de5dbe566b8babacc5b153f257a5a99c9e7bb38",
+   "subject": "41"
   },
   {
    "file": "session2/s42/sess02_subj42_EEG_SSVEP.mat",
    "bytes": 529470631,
-   "sha256": "7a175200075428438a6953e354c0bbab0099322aa370b9e09527bc4213bbe4b3"
+   "sha256": "7a175200075428438a6953e354c0bbab0099322aa370b9e09527bc4213bbe4b3",
+   "subject": "42"
   },
   {
    "file": "session2/s43/sess02_subj43_EEG_SSVEP.mat",
    "bytes": 544474545,
-   "sha256": "1ed088eaba6e7b135fc278cabe602621e1551f18546e357d5d35796939ec8497"
+   "sha256": "1ed088eaba6e7b135fc278cabe602621e1551f18546e357d5d35796939ec8497",
+   "subject": "43"
   },
   {
    "file": "session2/s44/sess02_subj44_EEG_SSVEP.mat",
    "bytes": 518884557,
-   "sha256": "bdc949284a6e54959da17329cd2295b94d006b95f218d2db6f53e880d026d15f"
+   "sha256": "bdc949284a6e54959da17329cd2295b94d006b95f218d2db6f53e880d026d15f",
+   "subject": "44"
   },
   {
    "file": "session2/s45/sess02_subj45_EEG_SSVEP.mat",
    "bytes": 551366303,
-   "sha256": "c4e3a45ade4a82a0b288ebd76c91a6c27ce069fa1c73fd6006aba8d9a9e4809d"
+   "sha256": "c4e3a45ade4a82a0b288ebd76c91a6c27ce069fa1c73fd6006aba8d9a9e4809d",
+   "subject": "45"
   },
   {
    "file": "session2/s46/sess02_subj46_EEG_SSVEP.mat",
    "bytes": 582520016,
-   "sha256": "d9a3bb94ed022ed9bc49a0967f4fe1954814a7f9bc3a8af2b4de0f77a81807fe"
+   "sha256": "d9a3bb94ed022ed9bc49a0967f4fe1954814a7f9bc3a8af2b4de0f77a81807fe",
+   "subject": "46"
   },
   {
    "file": "session2/s47/sess02_subj47_EEG_SSVEP.mat",
    "bytes": 567618773,
-   "sha256": "09abac94d35e8d1b8373e39075a9b8c3da31eb18b7ddf25041fd76146fdc5fa5"
+   "sha256": "09abac94d35e8d1b8373e39075a9b8c3da31eb18b7ddf25041fd76146fdc5fa5",
+   "subject": "47"
   },
   {
    "file": "session2/s48/sess02_subj48_EEG_SSVEP.mat",
    "bytes": 513317651,
-   "sha256": "e527dcb8de12ef9c65a6678fb79fcb467756ec687f16ed79d52463fa40b5a66f"
+   "sha256": "e527dcb8de12ef9c65a6678fb79fcb467756ec687f16ed79d52463fa40b5a66f",
+   "subject": "48"
   },
   {
    "file": "session2/s49/sess02_subj49_EEG_SSVEP.mat",
    "bytes": 539512172,
-   "sha256": "711327c378ff75c4e95f8bb28799d7b1a702451d48d2104b8e288ce3ff4cced5"
+   "sha256": "711327c378ff75c4e95f8bb28799d7b1a702451d48d2104b8e288ce3ff4cced5",
+   "subject": "49"
   },
   {
    "file": "session2/s5/sess02_subj05_EEG_SSVEP.mat",
    "bytes": 564846738,
-   "sha256": "aae8dd854aba2a3ba7da37b61133222a52a601adea493b381ed0a9dacee1f18a"
+   "sha256": "aae8dd854aba2a3ba7da37b61133222a52a601adea493b381ed0a9dacee1f18a",
+   "subject": "5"
   },
   {
    "file": "session2/s50/sess02_subj50_EEG_SSVEP.mat",
    "bytes": 516438490,
-   "sha256": "776bf1b8bbd9d3b5740ba6d55fc3e4cc5384ae52c801354b3c2776d83be65772"
+   "sha256": "776bf1b8bbd9d3b5740ba6d55fc3e4cc5384ae52c801354b3c2776d83be65772",
+   "subject": "50"
   },
   {
    "file": "session2/s51/sess02_subj51_EEG_SSVEP.mat",
    "bytes": 532452341,
-   "sha256": "e3366ab23b04bd214e0cc88c90081d3ea2d0978b4a83472c8e309ad2e03bd838"
+   "sha256": "e3366ab23b04bd214e0cc88c90081d3ea2d0978b4a83472c8e309ad2e03bd838",
+   "subject": "51"
   },
   {
    "file": "session2/s52/sess02_subj52_EEG_SSVEP.mat",
    "bytes": 536019691,
-   "sha256": "b449051aa7e272fadbf67935bcd5cd94b554b6093b81d63312a87b202287bff9"
+   "sha256": "b449051aa7e272fadbf67935bcd5cd94b554b6093b81d63312a87b202287bff9",
+   "subject": "52"
   },
   {
    "file": "session2/s53/sess02_subj53_EEG_SSVEP.mat",
    "bytes": 559983334,
-   "sha256": "5525be47531b24dc5e1ddaae64a63fb26fc464f4fb33747b7020f2faede0aab8"
+   "sha256": "5525be47531b24dc5e1ddaae64a63fb26fc464f4fb33747b7020f2faede0aab8",
+   "subject": "53"
   },
   {
    "file": "session2/s54/sess02_subj54_EEG_SSVEP.mat",
    "bytes": 566480055,
-   "sha256": "a9e9d9d06651b770f158dd4accd7cea9e0eabcbb90b0fa9cd741f6232c1a8b82"
+   "sha256": "a9e9d9d06651b770f158dd4accd7cea9e0eabcbb90b0fa9cd741f6232c1a8b82",
+   "subject": "54"
   },
   {
    "file": "session2/s6/sess02_subj06_EEG_SSVEP.mat",
    "bytes": 558639761,
-   "sha256": "529dadaf36123194f473aef0f632815f973c454848d26346a1236afed3bf422f"
+   "sha256": "529dadaf36123194f473aef0f632815f973c454848d26346a1236afed3bf422f",
+   "subject": "6"
   },
   {
    "file": "session2/s7/sess02_subj07_EEG_SSVEP.mat",
    "bytes": 529493911,
-   "sha256": "c236e47b19c997cb9555f4ff676e002bd126f0bc2fd7b4f27f0fac2cbe08e083"
+   "sha256": "c236e47b19c997cb9555f4ff676e002bd126f0bc2fd7b4f27f0fac2cbe08e083",
+   "subject": "7"
   },
   {
    "file": "session2/s8/sess02_subj08_EEG_SSVEP.mat",
    "bytes": 551625873,
-   "sha256": "e0f69cfd81393eefd3f021e1cd55c6d6cc79d0c8dc8e12b6ba61897db2193a4a"
+   "sha256": "e0f69cfd81393eefd3f021e1cd55c6d6cc79d0c8dc8e12b6ba61897db2193a4a",
+   "subject": "8"
   },
   {
    "file": "session2/s9/sess02_subj09_EEG_SSVEP.mat",
    "bytes": 530993248,
-   "sha256": "9a2a91e499fb4bf522bfeb6e4ac3103a0ace3bdeeb961d6caad40371ca45684d"
+   "sha256": "9a2a91e499fb4bf522bfeb6e4ac3103a0ace3bdeeb961d6caad40371ca45684d",
+   "subject": "9"
   }
- ]
+ ],
+ "n_subjects_recorded": 54
 }
