@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "OpenBMI SSVEP EEG dataset (Lee et al. 2019)",
-  "description": "A BIDS-formatted derivative dataset of steady-state visually evoked potential (SSVEP) EEG recordings from 54 subjects across 2 sessions. This dataset comprises 21,600 trials of 4-second EEG recordings sampled at 1000 Hz from 62 channels, designed for brain-computer interface benchmarking using a 4-class SSVEP paradigm. The data has been standardized and organized using the Mother of All BCI Benchmarks (MOABB) framework to facilitate reproducible analysis and comparison of BCI algorithms.",
-  "methods_description": "EEG data were collected using a 62-channel montage at 1000 Hz sampling frequency across 2 sessions with 4-second trial durations in a 4-class SSVEP paradigm. Detailed acquisition and experimental protocols are described in the primary publication (DOI: 10.1093/gigascience/giz002).",
+  "description": "A BIDS-formatted derivative dataset of steady-state visually evoked potential (SSVEP) EEG recordings from 54 subjects across 2 sessions. This dataset contains 21,600 trials of 4-second EEG recordings sampled at 1000 Hz from 62 channels, designed for brain-computer interface benchmarking using SSVEP stimulation paradigms. The data has been standardized and organized using the Mother of All BCI Benchmarks (MOABB) framework to facilitate reproducible analysis and cross-study comparison.",
+  "methods_description": "EEG data were recorded from 54 subjects performing SSVEP-based tasks across 2 sessions. Each trial consisted of 4-second recordings at 1000 Hz sampling frequency from 62 EEG channels. The paradigm included 4 classes of SSVEP stimulation.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -45,15 +45,22 @@
       "term": "SSVEP"
     },
     {
-      "term": "Brain-Computer Interfaces",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+      "term": "brain-computer interface"
+    },
+    {
+      "term": "BCI"
     },
     {
       "term": "BIDS"
     },
     {
-      "term": "benchmark dataset"
+      "term": "derivative dataset"
+    },
+    {
+      "term": "MOABB"
+    },
+    {
+      "term": "benchmark"
     }
   ],
   "related_identifiers": [
@@ -104,5 +111,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "2658e78204b15fa64693d547e564aa16861f36871bd5924ca434e1d333ea10f9"
+  "source_hash": "8720df2c9b02aad1e12b0600c2b1ebff60c02e85128860629013bf6afc9ba63d"
 }
