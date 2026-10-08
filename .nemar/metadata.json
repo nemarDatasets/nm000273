@@ -2,7 +2,7 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "OpenBMI SSVEP EEG dataset (Lee et al. 2019)",
-  "description": "A BIDS-formatted derivative of the OpenBMI (Lee et al. 2019) steady-state visually evoked potential (SSVEP) EEG dataset, organized via the Mother of All BCI Benchmarks (MOABB) framework. It contains 62-channel EEG recorded at 1000 Hz from 54 subjects over two sessions, with four stimulation classes and 21,600 trials in total. The dataset supports standardized benchmarking of SSVEP-based brain-computer interface methods.",
+  "description": "A BIDS-formatted derivative of the OpenBMI SSVEP EEG dataset (Lee et al. 2019), prepared with the Mother of All BCI Benchmarks (MOABB) framework. It contains 62-channel EEG recorded at 1000 Hz from 54 subjects over two sessions during a four-class steady-state visually evoked potential paradigm, totaling 21,600 trials of 4 s each. The dataset supports standardized analysis and benchmarking of SSVEP-based brain-computer interfaces.",
   "methods_description": "This BIDS derivative was produced with MOABB (v1.2.0) from the OpenBMI dataset of Lee et al. (2019; GigaDB 10.5524/100542). EEG was recorded from 54 subjects across 2 sessions during an SSVEP paradigm with 4 stimulation classes (21,600 trials in total). Each trial was 4 s long, recorded at 1000 Hz from 62 EEG channels. Full experimental protocol details are given in the primary publication (doi:10.1093/gigascience/giz002).",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
@@ -39,28 +39,20 @@
       "term": "EEG"
     },
     {
-      "term": "electroencephalography"
-    },
-    {
       "term": "SSVEP"
     },
     {
-      "term": "brain-computer interface"
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
     },
     {
-      "term": "steady-state visually evoked potentials"
+      "term": "Evoked Potentials, Visual",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D005074"
     },
     {
-      "term": "visual evoked potentials"
-    },
-    {
-      "term": "BCI illiteracy"
-    },
-    {
-      "term": "benchmarking"
-    },
-    {
-      "term": "OpenBMI"
+      "term": "BCI benchmarking"
     },
     {
       "term": "MOABB"
@@ -104,5 +96,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "8720df2c9b02aad1e12b0600c2b1ebff60c02e85128860629013bf6afc9ba63d"
+  "source_hash": "8ca7181241dacedf19067d0761bee44252ece49e79ece6622dd3d3875bc7b795"
 }
